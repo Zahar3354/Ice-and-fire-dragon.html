@@ -1,0 +1,127 @@
+body {
+    font-family: TAHOMA;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient ( to bottom right, #323F86, #280004);
+}
+header{
+background-image: url("sddefault.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+width: 100 %;
+height: 350 px;
+margin: 0;
+
+}
+.header{
+text-align: center;
+font-size: 75 px;
+position: absolute;
+top: 100 px;
+right: 490 px;
+background: linear-gradient (90 deg, #785FBB, #651C1C);
+-webkit-background-clip: text;
+color: transparent;
+}     
+
+
+
+h2{
+ text-align: center;
+ background: linear-gradient (90 deg, #785FBB, #651C1C);
+    -webkit-background-clip: text;
+    color: transparent;
+ font-size: 45 px;  }  
+ p{
+color: #AA9FCA;
+font-size: 20 px;
+ }
+ li{
+    font-size: 20 px;
+ }
+ footer{
+border: 3 px solid black;
+padding: 30 px;
+ }
+ img{
+width: 400 px;
+height: 250 px;
+text-align: center;
+width: 100 %;
+ }
+ .text{
+   color: #AA9FCA; 
+
+ }
+ .one{
+border: 2 px solid black;
+position: relative;
+width: 530 px;
+left: 50 px;
+padding: 5 px;
+margin: 10 px;
+ }
+
+.two{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 530 px;
+border: 2 px solid black;
+}
+
+.tr{
+display: flex;
+justify-content: center;
+
+}
+
+
+ h3{
+font-size: 30 px;
+background: linear-gradient (90 deg, #785FBB, #651C1C);
+    -webkit-background-clip: text;
+    color: transparent;
+text-align: center;
+ }
+.w{
+display: flex;
+
+}
+.we{
+font-size: 20 px;
+color: #AA9FCA;
+text-decoration: none;
+display: block;
+padding: 5 px;
+transition: 0.4 s;
+padding-top: 15 px;
+}
+.we:hover{
+  color: #3f306d;
+}
+nav{
+padding: 5 px;
+margin: 5 px;
+width: 150 px;
+position: fixed;
+border:5 px solid black;
+right: 0;
+height: 350 px;
+
+list-style-type: none;
+
+}
+.main{
+width: 1300 px;
+padding: 5 px;
+}
+.fandom{
+  color: #AA9FCA;
+  text-decoration: none ;
+  transition: 0.4 s;
+}
+.fandom:hover{
+  color: #3f306d;
+}
