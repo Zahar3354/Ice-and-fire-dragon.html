@@ -1,0 +1,137 @@
+body {
+    font-family: TAHOMA;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient (to bottom right, #323F86, #280004);
+}
+header{
+background-image: url("sddefault.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 350px;
+margin: 0;
+
+}
+.header{
+text-align: center;
+font-size: 75px;
+position: absolute;
+top: 100px;
+right: 490px;
+background: linear-gradient (90 deg, #785FBB, #651C1C);
+-webkit-background-clip: text;
+color: transparent;
+}
+h2{
+    text-align: center;
+    background: linear-gradient (90 deg, #785FBB, #651C1C);
+       -webkit-background-clip: text;
+       color: transparent;
+    font-size: 45px;  }  
+    p{
+   color: #AA9FCA;
+   font-size: 20px;
+    }
+    nav{
+        padding: 5px;
+        margin: 5px;
+        width: 150px;
+        position: fixed;
+        border:5px solid black;
+        right: 0;
+        height: 350px;
+        
+        list-style-type: none;
+        }
+
+        footer{
+            border: 5px solid black;
+            padding: 30px;
+         
+             }
+             .foot
+             {
+
+
+
+
+             }
+             .main{
+                width: 1300px;
+            }
+            .d{
+
+                text-align: center;
+                background: linear-gradient (90 deg, #785FBB, #651C1C);
+                -webkit-background-clip: text;
+                color: transparent;
+                font-size: 40 px;
+                    }
+.dv{
+    text-align: center;
+    background: linear-gradient (90 deg, #785FBB, #651C1C);
+       -webkit-background-clip: text;
+       color: transparent;
+    font-size: 45 px; 
+}
+.pet{
+padding: 5 px;
+display: flex;
+justify-content: space-between;
+}
+.ws{
+    border: 5 px solid black;
+    position: relative;
+    width: 530 px;
+    left: 50 px;
+    margin: 20 px;
+    padding: 5 px;
+}
+.wq{
+padding: 5 px;
+
+
+}
+
+h3{
+color: #AA9FCA;
+font-size: 35 px;
+text-align: center;
+}
+.we{
+    font-size: 20 px;
+    color: #AA9FCA;
+    text-decoration: none;
+    display: block;
+    padding: 5 px;
+    transition: 0.4 s;
+    padding-top: 15 px;
+    }
+    .we:hover{
+        color: #3f306d;
+      }
+    nav{
+    padding: 5 px;
+    margin: 5 px;
+    width: 150 px;
+    position: fixed;
+    border:5 px solid black;
+    right: 0;
+    height: 350 px;
+    
+    list-style-type: none;
+    }
+    .text{
+        color: #AA9FCA;
+        font-size: 15 px;
+    }
+    .fandom{
+        text-decoration: none;
+        color: #AA9FCA;
+        transition: 0.4 s;
+    }
+ 
+    .fandom:hover{
+        color: #3f306d;
+    }
